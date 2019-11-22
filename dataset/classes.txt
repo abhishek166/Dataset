@@ -1,2 +1,0 @@
-pothole
-damaged_road
